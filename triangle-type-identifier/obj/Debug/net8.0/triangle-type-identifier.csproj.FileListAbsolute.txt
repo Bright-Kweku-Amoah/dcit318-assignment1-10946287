@@ -1,0 +1,15 @@
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.exe
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.deps.json
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.runtimeconfig.json
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.dll
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.pdb
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.AssemblyInfoInputs.cache
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.AssemblyInfo.cs
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.sourcelink.json
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.dll
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\obj\Debug\net8.0\refint\triangle-type-identifier.dll
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.pdb
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.genruntimeconfig.cache
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment1-10946287\triangle-type-identifier\obj\Debug\net8.0\ref\triangle-type-identifier.dll
